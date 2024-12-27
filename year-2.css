@@ -343,7 +343,7 @@ canvas {
       right: 40px;
     }
     100% {
-      right: 80px;
+      right: 60px;
       color: yellow;
     }
   }
@@ -355,11 +355,11 @@ canvas {
         right: 20px;
       }
       50% {
-        right: 66px;
+        right: 56px;
         top: 50%;
       }
       100% {
-        right: 66px;
+        right: 56px;
         top: -400%;
       }
     }
